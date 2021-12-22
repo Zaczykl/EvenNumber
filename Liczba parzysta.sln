@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liczba parzysta", "Liczba parzysta\Liczba parzysta.csproj", "{455931DB-B576-421D-972D-78406724D051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455931DB-B576-421D-972D-78406724D051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455931DB-B576-421D-972D-78406724D051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455931DB-B576-421D-972D-78406724D051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455931DB-B576-421D-972D-78406724D051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D105A3-523C-40B3-9152-40AB8DC34F4E}
+	EndGlobalSection
+EndGlobal
